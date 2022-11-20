@@ -1,5 +1,5 @@
 # Introduction
-### **In this repository, we only present a demo of GA-CNN traing with a mini dataset.**
+### **In this repository, we only present a demo of the GA-CNN traing with a mini dataset.**
 
 ## Abstract
 
