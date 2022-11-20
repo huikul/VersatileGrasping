@@ -17,13 +17,13 @@
 # Training a neural network
 1. Here we provide a brief training demo based on a mini dataset. Please download the mini dataset [here](https://drive.google.com/file/d/1fJBxswzjU5H4lqjVxG3UMEkH3Qm9gaUu/view?usp=sharing).
 
-2. Unzip the mini dataset and copy them into the path `$HOME/Dexterous_grasp/dataset`.  
+2. Unzip the mini dataset and copy them into the path `$HOME/$PATH OF YOUR REPOSITORY$/dataset`.  
     <img src="tutorials_imgs/dataset_example.png" width="50%" alt="dataset">  
     
 3. Launch the visualization webpage:
     ```bash
-    cd $HOME/Dexterous_grasp/NeuralNetwork/data
-    python -m visdom.server -port 8031 -env_path ~/Dexterous_grasp/NeuralNetwork/data
+    cd $HOME/$PATH OF YOUR REPOSITORY$/NeuralNetwork/data
+    python -m visdom.server -port 8031 -env_path ~/$PATH OF YOUR REPOSITORY$/NeuralNetwork/data
     ```
 4. Open your web browser, and visit the webpage below to monitor the training progress:
     ```bash
@@ -32,7 +32,7 @@
 
 5. Start training:
     ```bash
-    cd $HOME/Dexterous_grasp/NeuralNetwork/data
+    cd $HOME/$PATH OF YOUR REPOSITORY$/NeuralNetwork/data
     python train_DexVacuum_Linr_80.py
     ```
 
