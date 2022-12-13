@@ -1,5 +1,5 @@
 # Introduction
-### In this repository, we only provide the code for the GA-CNN training with a mini dataset.
+### NOTE: In this repository, we only provide the code for the GA-CNN training with a mini dataset.
 
 ## Abstract
 
