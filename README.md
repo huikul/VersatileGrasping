@@ -41,6 +41,16 @@
 1. Backup links [1](https://1drv.ms/u/s!Aok6lAYtb5vYzFpoUwuhR24el4xr?e=deWaV1), [2](https://kuleuven-my.sharepoint.com/:u:/g/personal/hui_zhang_kuleuven_be/EWqD4-A8Hy5IrFRo-6aKQN4BX6hK5GQ_6gOiBRgY0WCVmQ?e=oDFLn0) to download our mini dataset.
 
 # Citation
-## **Will be available soon.**
+
+@ARTICLE{9994578,  
+  author    = {Zhang, Hui and Peeters, Jef and Demeester, Eric and Kellens, Karel},  
+  journal   = {IEEE Transactions on Robotics},   
+  title     = {Deep Learning Reactive Robotic Grasping With a Versatile Vacuum Gripper},   
+  year      = {2022},  
+  volume    = {},  
+  number    = {},  
+  pages     = {1-16},  
+  doi       = {10.1109/TRO.2022.3226148}  
+ }
 
 
