@@ -42,7 +42,7 @@
 
 # Citation
 
-@ARTICLE{9994578,  
+@ARTICLE{Hui_GA_CNN,  
   author    = {Zhang, Hui and Peeters, Jef and Demeester, Eric and Kellens, Karel},  
   journal   = {IEEE Transactions on Robotics},   
   title     = {Deep Learning Reactive Robotic Grasping With a Versatile Vacuum Gripper},   
