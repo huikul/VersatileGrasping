@@ -47,9 +47,9 @@
   journal   = {IEEE Transactions on Robotics},   
   title     = {Deep Learning Reactive Robotic Grasping With a Versatile Vacuum Gripper},   
   year      = {2022},  
-  volume    = {},  
-  number    = {},  
-  pages     = {1-16},  
+  volume    = {39},  
+  number    = {2},  
+  pages     = {1244-1259},  
   doi       = {10.1109/TRO.2022.3226148}  
  }
 
